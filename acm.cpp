@@ -39,7 +39,7 @@ void IO() {
 
 void solve() {}
 
-int main() {
+int tmain() {
     IO();
     int t = 1;
     cin >> t;
