@@ -1,16 +1,3 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-/*
-
-*/
-
-int main() {
-    cout << "solution\n";
-
-    return 0;
-}
-
 struct TreeNode {
     int val;
     TreeNode* left;
@@ -27,3 +14,17 @@ struct ListNode {
     ListNode(int x) : val(x), next(nullptr) {}
     ListNode(int x, ListNode* next) : val(x), next(next) {}
 };
+
+#include <bits/stdc++.h>
+using namespace std;
+
+
+/*
+* 
+*/
+
+int main() {
+    cout << "solution\n";
+
+    return 0;
+}
